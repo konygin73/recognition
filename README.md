@@ -1,0 +1,2 @@
+# recognition
+распознавание дронов opencv
